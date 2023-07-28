@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently 2nd Year CSE Undergrad<br>Learning Android Development<br>Learning Backend Development<br>Traveller - Travel Film Maker
+Currently 3rd Year CSE Undergrad<br>Learning Android Development<br>Learning Backend Development<br>Traveller - Travel Film Maker
 
 
 ## 🌐 Socials:
